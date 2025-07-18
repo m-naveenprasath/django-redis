@@ -46,7 +46,7 @@ pip install -r requirements.txt
 
 # Start Django server
 python manage.py runserver
-
+```
 
 ## 📸 Benchmark Result Screenshot
 
