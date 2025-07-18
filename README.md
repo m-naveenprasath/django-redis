@@ -27,6 +27,7 @@ Make sure Docker is installed and running.
 ```bash
 docker pull redis
 docker run --name redis-server -p 6378:6379 -d redis
+```
 
 ## ⚙️ 2. Run Django App (Locally)
 
